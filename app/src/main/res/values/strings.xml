@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="section_tv_holder">Health</string>
+    <string name="author_tv_holder">Author GGG</string>
+    <string name="title_tv_holder">There is a lot covid cases in ....</string>
+    <string name="date_tv_holder">Jan 17,2020</string>
+    <string name="time_tv_holder">5:08 PM</string>
+    <string name="QueryUtilsTag">QueryUtils</string>
+    <string name="no_news">No News Found!</string>
+    <string name="no_internet_connection">No intentet connection please check your wifi or mobile data and try again</string>
+    <string name="main_activity_label">Cryptocurrency News</string>
+</resources>
